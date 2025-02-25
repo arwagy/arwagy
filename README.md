@@ -5,6 +5,7 @@ With a strong foundation in Data Structures and Algorithms,
 I’ve honed my problem-solving skills through competitions
 and hands-on projects. 
 My expertise includes:
+
 ● 📊 Data Visualization (Tableau, Power BI, Matplotlib, Seaborn)
 
 ● 🐍 Python for data analysis and machine learning
